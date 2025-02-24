@@ -1,0 +1,28 @@
+.container {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .title {
+    font-size: 2rem;
+    color: #5F2893;
+    font-weight: bold;
+    font-family: Inter, Sans-serif;
+  }
+  
+  .button {
+    font-size: 20px;
+    font-family: Inter, Sans-serif;
+    padding: 10px 20px;
+    cursor: pointer;
+    background-color: #5F2893;
+    color: #000000;
+    border: none;
+    border-radius: 5px;
+    transition: background 0.3s ease-in-out;
+  }
+  
+  .button:hover {
+    background-color: #4a1e70;
+  }
+  
